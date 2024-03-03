@@ -6,9 +6,17 @@
   
 - 🔭 I’m currently working on JavaScript, Html, Css
 - 🌱 I’m currently learning React
-- 📫 How to reach me: starikovajul@gmail.com
+- 📫 How to reach me: 
+<ul>
+<li>
+<a href="mailto:starikovajul@gmail.com">E-mail</a>
+</li>
+<li>
+<a href="https://api.whatsapp.com/send?phone=+79163400747">whatsapp</a>
+</li>
+</ul>
 
-
+Technologies:
 
 <!--
 **CodeMeYulia/CodeMeYulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

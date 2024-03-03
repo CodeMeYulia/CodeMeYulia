@@ -8,13 +8,15 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: starikovajul@gmail.com
 
+
+
+<!--
+**CodeMeYulia/CodeMeYulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ![html](https://raw.githubusercontent.com/CodeMeYulia/CodeMeYulia/4bc5a3a47f25c71e94ee5cbddf4c7dcfa8131379/html5.svg)
 ![html](https://raw.githubusercontent.com/CodeMeYulia/CodeMeYulia/4bc5a3a47f25c71e94ee5cbddf4c7dcfa8131379/css3.svg)
 ![html](https://raw.githubusercontent.com/CodeMeYulia/CodeMeYulia/4bc5a3a47f25c71e94ee5cbddf4c7dcfa8131379/javascript.svg)
 ![html](https://raw.githubusercontent.com/CodeMeYulia/CodeMeYulia/4bc5a3a47f25c71e94ee5cbddf4c7dcfa8131379/webpack.svg)
-
-<!--
-**CodeMeYulia/CodeMeYulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

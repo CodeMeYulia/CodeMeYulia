@@ -12,7 +12,7 @@
 <a href="mailto:starikovajul@gmail.com">E-mail</a>
 </li>
 <li>
-<a href="https://api.whatsapp.com/send?phone=+79163400747">whatsapp</a>
+<a href="https://api.whatsapp.com/send?phone=79163400747">whatsapp</a>
 </li>
 </ul>
 

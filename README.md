@@ -9,7 +9,7 @@
 - 📫 How to reach me: 
 <ul>
 <li>
-<a href="mailto:starikovajul@gmail.com">E-mail</a>
+<a href="mailto:starikovajul@gmail.com" target="_blank">E-mail</a>
 </li>
 <li>
 <a href="https://api.whatsapp.com/send?phone=79163400747">whatsapp</a>

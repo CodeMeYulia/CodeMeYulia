@@ -18,7 +18,7 @@
 
 Technologies:
 
-<div> HTML5 | CSS3 | JavaScript | Bootstrap | Webpack | Git </div>
+<div> HTML5 | CSS3 | JavaScript | Bootstrap | Webpack | Git | Stackblitz </div>
 
 <!--
 **CodeMeYulia/CodeMeYulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
